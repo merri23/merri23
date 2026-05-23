@@ -295,7 +295,7 @@ Every project should be built with production in mind.
   <a href="https://github.com/merri23">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+  <a href="https://t.me/merri_23">
     <img src="https://img.shields.io/badge/Telegram-05C2DF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
